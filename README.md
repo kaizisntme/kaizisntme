@@ -1,7 +1,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&pause=500&size=30&color=fff&random=false&width=285&lines=%F0%9F%91%8B+Hi,+I%27m+Kaiz;+aka.+Phan%20Anh%20Khang" alt="Typing SVG" /></p>
 
 - 👋 Anh Khang - Kaiz
-- 🇻🇳 Vietnamese Developer / Student
+- 🇻🇳 Vietnamese
 - ⭐ Code Curi
 
 <p align="center">
